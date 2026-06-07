@@ -8,7 +8,7 @@ from finans_modeli import Islem
 
 CSV_ALANLARI = ["id", "tutar", "tarih", "aciklama", "tip"]
 
-
+  
 def csv_kaydet(dosya_adi, gelirler, giderler):
     """
     Tüm gelir ve gider nesnelerini belirtilen CSV dosyasına yazar.
