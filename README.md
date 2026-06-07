@@ -18,7 +18,7 @@ Bu proje; gelir ve gider kayıtlarının tutulmasını, CSV dosyasına kaydedilm
 | **GitHub Repo** | `24902005-MahmuthanErdinc-PythonProje` |
 | **Repo Linki** | `https://github.com/Mahmuthann/24902005-MahmuthanErdinc-PythonProje` |
 
-> Not: GitHub reposu private olarak ayarlanmıştır. Öğretim elemanı collaborator olarak eklenmiştir.
+> Not: GitHub reposu public olarak ayarlanmıştır.jyputer nootebooktan markdownlarla güzel şekilde açıklanmıstır.
 
 ---
 
@@ -26,7 +26,7 @@ Bu proje; gelir ve gider kayıtlarının tutulmasını, CSV dosyasına kaydedilm
 
 Bu projede amaç, Python Programlama II dersinde öğrenilen temel ve ileri düzey konuları gerçek bir uygulama üzerinde kullanmaktır.
 
-Kişisel finans takibi, günlük hayatta kullanılabilecek pratik bir konu olduğu için seçilmiştir. Uygulama sayesinde kullanıcı gelir ve gider kayıtlarını tutabilir, bu kayıtları dosyaya kaydedebilir, finansal durumunu analiz edebilir ve sonuçları grafikler üzerinden inceleyebilir.
+Kişisel finans takibi, günlük hayatta kullanılabilecek pratik bir konu olduğu için seçilmiştir. Uygulama sayesinde kullanıcı gelir ve gider kayıtlarını tutabilir, bu kayıtları dosyaya kaydedebilir, finansal durumunu analiz edebilir ve sonuçları grafikler üzerinden inceleyebilir. İnsani olarak ihtiyac duyduğumuz sistemdi ve umarım işinize yarar.
 
 Projede özellikle şu konular uygulanmıştır:
 
@@ -396,11 +396,11 @@ Projenin genel çalışma mantığı şu şekildedir:
 
 ## 📌 Sonuç
 
-Bu proje ile Python Programlama II dersi kapsamında öğrenilen birçok konu tek bir uygulamada birleştirilmiştir.
+Bu proje ile Python Programlama II dersi kapsamında öğrenilen birçok konu tek bir uygulamada birleştirilmiştir derste gördükleirmi uygyulayıp gelişmeye çalıstım .
 
 Kişisel finans takip sistemi sayesinde kullanıcı gelir ve giderlerini kaydedebilir, verilerini CSV dosyasında saklayabilir, finansal durumunu analiz edebilir ve sonuçları grafiklerle inceleyebilir.
 
-Proje hem konsol uygulaması hem de Jupyter Notebook arayüzü ile çalışabilecek şekilde hazırlanmıştır.
+Proje hem konsol uygulaması hem de Jupyter Notebook arayüzü ile çalışabilecek şekilde hazırlanmıştır  öncelik olarak jupyteri öneririm .
 
 ---
 
@@ -412,7 +412,7 @@ Proje hem konsol uygulaması hem de Jupyter Notebook arayüzü ile çalışabile
 - Veri dosyası: `veriler.csv`
 - Grafik çıktıları: `grafikler/`
 - Ekran görüntüleri: `screenshots/`
-- GitHub repo: `24902005-MahmuthanErdinc-PythonProje`
+- GitHub repo: 
 
 ```text
 Hazırlayan: Mahmuthan Erdinç
