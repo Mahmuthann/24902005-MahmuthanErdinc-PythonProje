@@ -1,0 +1,32 @@
+id,tutar,tarih,aciklama,tip
+1,15000.0,2026-01-05,Maaş,gelir
+2,1200.0,2026-01-12,Ek gelir,gelir
+3,800.0,2026-02-03,Freelance iş,gelir
+4,2500.0,2026-03-05,Proje ödemesi,gelir
+5,1800.0,2026-04-10,Danışmanlık ücreti,gelir
+6,3000.0,2026-05-01,Demo gelir – burs ödemesi,gelir
+7,3000.0,2026-05-01,Demo gelir – burs ödemesi,gelir
+8,3000.0,2026-05-01,Demo gelir – burs ödemesi,gelir
+9,3000.0,2026-05-01,Demo gelir – burs ödemesi,gelir
+10,3000.0,2026-05-01,Demo gelir – burs ödemesi,gelir
+11,3000.0,2026-05-01,Demo gelir – burs ödemesi,gelir
+12,3000.0,2026-05-01,Demo gelir – burs ödemesi,gelir
+13,3000.0,2026-05-01,Demo gelir – burs ödemesi,gelir
+14,3000.0,2026-05-01,Demo gelir – burs ödemesi,gelir
+1,3500.0,2026-01-06,Kira,gider
+2,950.0,2026-01-10,Market,gider
+3,650.0,2026-02-08,Ulaşım,gider
+4,450.0,2026-02-14,Fatura,gider
+5,1200.0,2026-03-03,Alışveriş,gider
+6,320.0,2026-03-19,Abonelikler,gider
+7,780.0,2026-04-07,Yemek & Kafe,gider
+8,500.0,2026-04-22,Giyim,gider
+9,420.0,2026-05-10,Demo gider – kitap alımı,gider
+10,420.0,2026-05-10,Demo gider – kitap alımı,gider
+11,420.0,2026-05-10,Demo gider – kitap alımı,gider
+12,420.0,2026-05-10,Demo gider – kitap alımı,gider
+13,420.0,2026-05-10,Demo gider – kitap alımı,gider
+14,420.0,2026-05-10,Demo gider – kitap alımı,gider
+15,420.0,2026-05-10,Demo gider – kitap alımı,gider
+16,420.0,2026-05-10,Demo gider – kitap alımı,gider
+17,420.0,2026-05-10,Demo gider – kitap alımı,gider
