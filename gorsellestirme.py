@@ -4,7 +4,7 @@
 # ============================================================
 
 import os
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt 
 import matplotlib.patches as mpatches
 import seaborn as sns
 from analiz import toplam_gelir_gider, aylik_analiz
